@@ -12,26 +12,6 @@
 
 > **HARS** is an AI-powered Computer Vision project designed to detect surrounding objects, estimate their distance, evaluate collision risk, and provide real-time safety warnings.
 
----
-
-## 🌐 Project Website
-
-### 🚀 Live Website
-
-**[Visit HARS Website →](YOUR_GITHUB_PAGES_URL)**
-
-The GitHub Pages website provides an interactive overview of the project, including:
-
-- Project vision
-- System architecture
-- Computer Vision pipeline
-- Distance estimation
-- Risk assessment
-- Project screenshots
-- Demo results
-- Technologies
-- Team members
-- Future improvements
 
 ---
 
